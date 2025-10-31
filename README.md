@@ -55,6 +55,16 @@ Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
 5. He continuado mi parte del trabajo 
 
 
+--- Viernes 31 de Octubre de 2025 ---
+
+1. Los recursos de la tierra son finitos
+
+2. Los acuiferos de Jumilla son cada vez mas profundos y por lo tanto el agua mas cara
+
+3. Es hallowen, truco o trato
+
+4. Hemos dada el sistema de sostenibilidad de agua (como ejemplo sigastas 2 niveles de agua de un acuifero y despues llueve y se recargarn los 2 niveles de agua se queda como si no se hubiera gastado)
+
 
 -------------------------- SEPTIEMBRE ---------------------------
 
