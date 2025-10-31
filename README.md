@@ -42,6 +42,20 @@ Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
 4. Estuve haciendo mi parte de proyecto de la sociedad sumeria
 
 
+--- Viernes 24 de Octubre de 2025 ---
+
+1. Reutilizar, reciclar, ...
+
+2. Teoría de la selección R/K (Elefante tiene una cria, trucha tiene muchos huevos)
+
+3. Perpetuar especie y genes en el ecosistemas
+
+4. Hoy no ha habido ninguna pregunta
+
+5. He continuado mi parte del trabajo 
+
+
+
 -------------------------- SEPTIEMBRE ---------------------------
 
 
