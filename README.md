@@ -2,6 +2,12 @@
 Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
 
 --------------------------- NOVIEMBRE ---------------------------
+
+--- Viernes 07 de Noviembre de 2025 ---
+
+1. Hoy ha habido guardia, no vino el profesor
+
+
 --------------------------- OCTUBRE ---------------------------
 
 
