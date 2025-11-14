@@ -15,32 +15,32 @@ Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
 --- Viernes 14 de Noviembre de 2025 ---
 
 ## Resumen de la Clase
-    Hoy vimos el tema **“El Viaje Oculto del Producto”**, donde aprendimos que aunque un móvil pese solo **150 gramos**, su fabricación necesita mover alrededor de **80 kg de materiales**.  
+Hoy vimos el tema **“El Viaje Oculto del Producto”**, donde aprendimos que aunque un móvil pese solo **150 gramos**, su fabricación necesita mover alrededor de **80 kg de materiales**.  
     Estudiamos de dónde sale este “peso oculto”: **extracción de materias primas**, **fabricación**, **distribución**, **uso** y **gestión del desecho**.
 
-    También repasamos qué materiales se extraen para fabricar un móvil (litio, cobre, petróleo…), las fuentes principales de energía (sol y energía nuclear), y cómo el petróleo sirve de apoyo para producir plásticos.
+También repasamos qué materiales se extraen para fabricar un móvil (litio, cobre, petróleo…), las fuentes principales de energía (sol y energía nuclear), y cómo el petróleo sirve de apoyo para producir plásticos.
 
-    La **pregunta del día** fue:  
+La **pregunta del día** fue:  
     **¿Cómo es posible este peso oculto?**
 
-    Finalmente vimos cómo un móvil hace su “viaje”: desde la mina → a la fábrica → a la tienda → a tu bolsillo → hasta su desecho.  
-    Terminamos con el concepto de **Análisis del Ciclo de Vida (ACV)**.
+Finalmente vimos cómo un móvil hace su “viaje”: desde la mina → a la fábrica → a la tienda → a tu bolsillo → hasta su desecho.  
+Terminamos con el concepto de **Análisis del Ciclo de Vida (ACV)**.
 
 
 ## Ejemplos
-    - Un móvil de 150 g necesita aproximadamente **80 kg de materiales** para fabricarse
-    - El plástico de la carcasa del móvil viene del **petróleo**, que primero debe extraerse, transportarse y procesarse
-    - Un cable USB pequeño requiere **cobre** que puede haber viajado por varios países antes de llegar a la fábrica  
-    - Para obtener el **litio** de una sola batería se mueven grandes cantidades de tierra en una mina
-    - La fabricación y transporte del móvil implica usar energía en todas las fases del ciclo de vida
+- Un móvil de 150 g necesita aproximadamente **80 kg de materiales** para fabricarse
+- El plástico de la carcasa del móvil viene del **petróleo**, que primero debe extraerse, transportarse y procesarse
+- Un cable USB pequeño requiere **cobre** que puede haber viajado por varios países antes de llegar a la fábrica  
+- Para obtener el **litio** de una sola batería se mueven grandes cantidades de tierra en una mina
+- La fabricación y transporte del móvil implica usar energía en todas las fases del ciclo de vida
 
 
 ## Reflexión Personal
-    Hoy comprendí que los productos que usamos tienen un impacto mucho mayor del que vemos. Algo tan pequeño como un móvil necesita muchos recursos, energía y procesos para existir.  
-    Me hace pensar en que todo lo que consumimos tiene una historia y un impacto oculto y que deberíamos ser más conscientes del costo real de los objetos que usamos a diario.
+Hoy comprendí que los productos que usamos tienen un impacto mucho mayor del que vemos. Algo tan pequeño como un móvil necesita muchos recursos, energía y procesos para existir.  
+Me hace pensar en que todo lo que consumimos tiene una historia y un impacto oculto y que deberíamos ser más conscientes del costo real de los objetos que usamos a diario.
 
 
-    ## Explicación del hecho por IA
+## Explicación del hecho por IA
 La idea es pedirle a la IA que calcule el **“peso oculto”** de extraer una materia prima.
 
 **Ejemplo:** una tonelada de hierro.  
@@ -57,7 +57,7 @@ Así entendemos que detrás de un material hay mucho más peso del que vemos fí
 ---
 
 ## Imagen
-    ![Ilustración del peso oculto de un móvil y su ciclo de vida completo](https://i.pinimg.com/736x/00/1e/f2/001ef2f61f6045c14fa0fd1b4a8650a6.jpg)
+![Ilustración del peso oculto de un móvil y su ciclo de vida completo](https://i.pinimg.com/736x/00/1e/f2/001ef2f61f6045c14fa0fd1b4a8650a6.jpg)
 
 
 --------------------------- OCTUBRE ---------------------------
