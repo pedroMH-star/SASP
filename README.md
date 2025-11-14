@@ -1,20 +1,21 @@
 # SASP
 Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
 
---------------------------- NOVIEMBRE ---------------------------
+# --------------------------- NOVIEMBRE ---------------------------
 
---- Viernes 07 de Noviembre de 2025 ---
+## --- Viernes 07 de Noviembre de 2025 ---
 
 1. Hoy ha habido guardia, no vino el profesor
-## Resumen de la Clase
-## Ejemplos
-## Reflexión Personal
-## Imagen
+
+### Resumen de la Clase
+### Ejemplos
+### Reflexión Personal
+### Imagen
 
 
---- Viernes 14 de Noviembre de 2025 ---
+## --- Viernes 14 de Noviembre de 2025 ---
 
-## Resumen de la Clase
+### Resumen de la Clase
 Hoy vimos el tema **“El Viaje Oculto del Producto”**, donde aprendimos que aunque un móvil pese solo **150 gramos**, su fabricación necesita mover alrededor de **80 kg de materiales**.  
     Estudiamos de dónde sale este “peso oculto”: **extracción de materias primas**, **fabricación**, **distribución**, **uso** y **gestión del desecho**.
 
@@ -27,7 +28,7 @@ Finalmente vimos cómo un móvil hace su “viaje”: desde la mina → a la fá
 Terminamos con el concepto de **Análisis del Ciclo de Vida (ACV)**.
 
 
-## Ejemplos
+### Ejemplos
 - Un móvil de 150 g necesita aproximadamente **80 kg de materiales** para fabricarse
 - El plástico de la carcasa del móvil viene del **petróleo**, que primero debe extraerse, transportarse y procesarse
 - Un cable USB pequeño requiere **cobre** que puede haber viajado por varios países antes de llegar a la fábrica  
@@ -35,12 +36,12 @@ Terminamos con el concepto de **Análisis del Ciclo de Vida (ACV)**.
 - La fabricación y transporte del móvil implica usar energía en todas las fases del ciclo de vida
 
 
-## Reflexión Personal
+### Reflexión Personal
 Hoy comprendí que los productos que usamos tienen un impacto mucho mayor del que vemos. Algo tan pequeño como un móvil necesita muchos recursos, energía y procesos para existir.  
 Me hace pensar en que todo lo que consumimos tiene una historia y un impacto oculto y que deberíamos ser más conscientes del costo real de los objetos que usamos a diario.
 
 
-## Explicación del hecho por IA
+### Explicación del hecho por IA
 La idea es pedirle a la IA que calcule el **“peso oculto”** de extraer una materia prima.
 
 **Ejemplo:** una tonelada de hierro.  
@@ -56,14 +57,14 @@ Así entendemos que detrás de un material hay mucho más peso del que vemos fí
 
 ---
 
-## Imagen
+### Imagen
 ![Ilustración del peso oculto de un móvil y su ciclo de vida completo](https://i.pinimg.com/736x/00/1e/f2/001ef2f61f6045c14fa0fd1b4a8650a6.jpg)
 
 
---------------------------- OCTUBRE ---------------------------
+# --------------------------- OCTUBRE ---------------------------
 
 
---- Viernes 03 de Octubre de 2025 ---
+## --- Viernes 03 de Octubre de 2025 ---
 
 1. Hoy nuestro profesor Miguel nos ha planteado la idea de que los humanos somos animales
 
@@ -76,7 +77,7 @@ Así entendemos que detrás de un material hay mucho más peso del que vemos fí
 5. Sí, creo que los humanos acabaremos con la vida en nuestro planeta si seguimos actuando como hasta ahora. Pues tendemos a quejarnos de los males que pasan en el mundo, pero no estamos dispuesto a renunciar a nuestras comidades, por hacer un cambio
 
 
---- Viernes 10 de Octubre de 2025 ---
+## --- Viernes 10 de Octubre de 2025 ---
 
 1. Cualquier población de seres vivos necesita alimentos para subsistir y expandirse
 
@@ -89,7 +90,7 @@ Así entendemos que detrás de un material hay mucho más peso del que vemos fí
 5. Sí, creo que naturalmente hay un límite en la población humana, porque la Tierra tiene recursos finitos y no puede sostener un crecimiento infinito. Sin embargo, como especie, actuamos como parásitos que se aferran a la vida incluso cuando estamos destruyendo el entorno que nos mantiene. En lugar de equilibrarnos con la naturaleza, seguimos expandiéndonos y explotando todo lo que encontramos, lo que solo retrasa lo inevitable: que la propia naturaleza nos ponga límites
 
 
---- Viernes 17 de Octubre de 2025 ---
+## --- Viernes 17 de Octubre de 2025 ---
 
 1. ¿Que hacemos nosotros: cooperamos o competimos?
 
@@ -100,7 +101,7 @@ Así entendemos que detrás de un material hay mucho más peso del que vemos fí
 4. Estuve haciendo mi parte de proyecto de la sociedad sumeria
 
 
---- Viernes 24 de Octubre de 2025 ---
+## --- Viernes 24 de Octubre de 2025 ---
 
 1. Reutilizar, reciclar, ...
 
@@ -113,7 +114,7 @@ Así entendemos que detrás de un material hay mucho más peso del que vemos fí
 5. He continuado mi parte del trabajo 
 
 
---- Viernes 31 de Octubre de 2025 ---
+## --- Viernes 31 de Octubre de 2025 ---
 
 1. Los recursos de la tierra son finitos
 
@@ -124,10 +125,10 @@ Así entendemos que detrás de un material hay mucho más peso del que vemos fí
 4. Hemos dada el sistema de sostenibilidad de agua (como ejemplo sigastas 2 niveles de agua de un acuifero y despues llueve y se recargarn los 2 niveles de agua se queda como si no se hubiera gastado)
 
 
--------------------------- SEPTIEMBRE ---------------------------
+# -------------------------- SEPTIEMBRE ---------------------------
 
 
---- Viernes 19 de Septiembre de 2025 ---
+## --- Viernes 19 de Septiembre de 2025 ---
 
 1. Hoy nuestro profesor Miguel nos ha explicado cómo va a funcionar este modulo SASP (Sostenibilidad aplicada al sistema productivo).
 
@@ -148,7 +149,7 @@ https://hilite.me/ style "emacs"
 https://mvnrepository.com/
 
 
---- Viernes 26 de Septiembre de 2025 ---
+## --- Viernes 26 de Septiembre de 2025 ---
 
 1. Hemos hecho una encuesta de prueba
 
