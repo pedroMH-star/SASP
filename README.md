@@ -60,6 +60,45 @@ Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
   ![Ilustración del peso oculto de un móvil y su ciclo de vida completo](https://i.pinimg.com/736x/00/1e/f2/001ef2f61f6045c14fa0fd1b4a8650a6.jpg)
 
 
+## --- Viernes 21 de Noviembre de 2025 ---
+
+1. Hoy ha habido guardia, no vino el profesor
+
+  ### Resumen de la Clase
+  ### Ejemplos
+  ### Reflexión Personal
+  ### Imagen
+
+
+## --- Viernes 28 de Noviembre de 2025 ---
+
+### Resumen de la Clase
+Hoy aprendimos la diferencia entre **Economía Lineal** (extraer → producir → usar → tirar) y **Economía Circular**, un modelo que busca **reducir, reutilizar, reparar y reciclar** para generar menos residuos y aprovechar mejor los recursos.
+Comentamos que antes solo se reciclaba lo que tenía un valor claro, como la **chatarra de un coche**, pero hoy aplicamos los **Principios de Circularidad** para diseñar productos más sostenibles.
+
+La **pregunta del día** fue:  
+   **¿Cómo me afecta el ecodiseño a nivel individual?**
+   **¿Es mejor un enfoque individual o colectivo en la economía circular?**
+
+Me afecta porque hace que los productos que compro sean más duraderos, más fáciles de reparar y generen menos residuos. Gracias a eso gasto menos y contamino menos sin casi darme cuenta.
+
+Los dos son importantes, pero el colectivo (empresas y gobiernos) tiene más impacto. Aun así, las acciones individuales ayudan y completan ese cambio.
+
+
+### Ejemplos
+- Recuperación de la **chatarra de un coche** para obtener metales reutilizables.  
+- Un envase de vidrio que se puede reutilizar varias veces.  
+- Reparar un electrodoméstico en vez de tirarlo.  
+- Productos diseñados para durar más o ser más fáciles de reciclar.
+
+### Reflexión Personal
+Hoy entendí que el **ecodiseño** influye en los productos que uso diariamente: si duran más, si puedo repararlos o si generan menos residuos.  
+Creo que mis acciones individuales importan, pero el **impacto real** se logra combinando esfuerzos personales y colectivos. La economía circular no es solo reciclar, sino **pensar mejor qué consumimos y por qué**.
+
+### Imagen
+  ![Diagrama Economía Lineal vs Economía Circular](https://www.raeeandalucia.es/sites/default/files/images/economialinealvscircular-02.jpg)
+
+
 
 # ------ OCTUBRE ------
 
