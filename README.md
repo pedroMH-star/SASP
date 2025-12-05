@@ -1,5 +1,45 @@
 # SASP
 Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
+#  ------ DICIEMBRE ------
+
+ ## --- Viernes 05 de Diciembre de 2025 ---
+
+### Resumen de la Clase
+Hoy trabajamos los conceptos de **Huella Ecológica** y **Huella de Carbono**.  
+Analizamos la diferencia entre **demanda** y **oferta de recursos naturales**, y cómo los seres humanos procesamos y generamos muchos más residuos que otros seres vivos. Vimos ejemplos como los residuos de un perro o un elefante, que se integran de forma natural en el ecosistema, frente a nuestros residuos, que requieren procesos complejos para gestionarse.
+
+La **Huella Ecológica** mide el balance entre **lo que consumimos** y **lo que la naturaleza puede regenerar**, utilizando el planeta como unidad de referencia. Si consumimos más de lo que la Tierra puede producir —por ejemplo, 1 000 bayas cuando solo puede regenerar 700— dejamos un déficit que se acumula con el tiempo.
+
+La **Huella de Carbono** representa la totalidad de **gases de efecto invernadero** que emitimos: desde actividades humanas (industria, transporte, electricidad) hasta procesos naturales. También vimos cómo, desde los años 50, la humanidad aumentó su impacto para mejorar la calidad de vida mediante una mayor producción.
+
+Finalmente estudiamos tres estrategias de mitigación:
+1. **Reducir**
+2. **Mejorar la eficiencia**
+3. **Compensar**
+
+### Ejemplos
+- Los residuos orgánicos de animales como elefantes fertilizan el suelo de forma natural.
+- Los humanos generamos residuos que requieren transporte, tratamiento y energía para gestionarse.
+- Consumir más recursos de los que la Tierra puede regenerar conduce al “déficit ecológico”.
+- La emisión de CO₂ de coches, fábricas o electricidad forma parte directa de la Huella de Carbono.
+
+### Reflexión Personal
+Hoy entendí que mi impacto personal sobre el planeta es mayor de lo que imaginaba. Ver que mi estilo de vida requeriría más de cuatro Tierras me hace pensar en la urgencia de reducir mi consumo y mis emisiones. También me llevo la idea de que pequeñas decisiones diarias, como usar menos energía o comprar solo lo necesario, pueden sumar dentro de un esfuerzo colectivo para equilibrar nuestra huella.
+
+### Imagen
+Realizamos una encuesta en *footprintcalculator.org*.  
+Mi resultado fue: **si todo el mundo viviera como yo, necesitaríamos 4.3 Tierras**.
+![Cuántas Tierras necesitaríamos](Imagen\Miguelon.png)
+
+
+## --- Viernes 12 de Diciembre de 2025 ---
+
+ ### Resumen de la Clase
+ ### Ejemplos
+ ### Reflexión Personal
+ ### Imagen
+
+
 
 #  ------ NOVIEMBRE ------
 
