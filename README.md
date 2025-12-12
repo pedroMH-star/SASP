@@ -34,11 +34,33 @@ Mi resultado fue: **si todo el mundo viviera como yo, necesitaríamos 4.3 Tierra
 
 ## --- Viernes 12 de Diciembre de 2025 ---
 
- ### Resumen de la Clase
- ### Ejemplos
- ### Reflexión Personal
- ### Imagen
+### Resumen de la Clase
+Hoy vimos cómo el **cambio climático** influye no solo en el medio ambiente, sino también en decisiones **políticas, sociales y militares**.  
+Aprendimos que la evidencia del calentamiento global es **inequívoca**, y que los países ya perciben estas amenazas como un riesgo real para su seguridad.
 
+Comentamos que:
+- En España, solo alrededor del **20% de la energía** proviene de fuentes renovables.  
+- Las **avispas asiáticas** han llegado y se han adaptado por el aumento de las temperaturas.  
+- La ONU indica que **3.600 millones de personas** viven en zonas vulnerables al cambio climático.  
+- El Ministerio de Defensa también estudia cómo el clima afecta infraestructuras, recursos y la estabilidad del país.
+
+La **pregunta del día** fue:  
+**¿Cuál es el principal emisor de CO₂?**
+  
+El principal emisor de CO₂ en el mundo es el **sector energético**: la electricidad y el calor producidos quemando combustibles fósiles.
+
+### Ejemplos
+- Aumento de la temperatura media global.  
+- Especies invasoras como la avispa asiática que ahora sobreviven mejor.  
+- Países que dependen todavía de combustibles fósiles para generar energía.  
+- Sequías o fenómenos extremos que afectan a la seguridad y a la política.
+
+### Reflexión Personal
+Hoy entendí que el cambio climático no es solo un problema ambiental, sino algo que afecta directamente a nuestra seguridad, economía y forma de vivir.  
+Me sorprendió saber que solo usamos un 20% de energías renovables y que tantas personas viven en zonas vulnerables. Creo que es necesario actuar tanto a nivel individual como colectivo para reducir emisiones y proteger nuestro futuro.
+
+### Imagen
+ ![un mapa de zonas vulnerables por cambio climatico](https://www.miperiodicodigital.com/2024/img/noticias/2024/04/662e7cbcc8693__550x550.jpg)
 
 
 #  ------ NOVIEMBRE ------
