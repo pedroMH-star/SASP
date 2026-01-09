@@ -1,5 +1,61 @@
 # SASP
 Sostenibilidad aplicada al sistema productivo --- Pedro Martínez Herrero
+
+#  ------ ENERO ------
+
+ ## --- Viernes 09 de Enero de 2026 ---
+
+### Resumen de la Clase
+Hoy hablamos sobre cómo los **residuos** pueden ser un **problema**, pero también una **oportunidad** si se reutilizan correctamente. Vimos que la cantidad de residuos sigue aumentando y que, aunque algunos pueden aprovecharse como recursos, otros se pierden o contaminan el entorno durante el proceso.
+
+Analizamos ejemplos muy impactantes, como el de **niños en países del Sur Global** que extraen cobre u oro de **residuos electrónicos procedentes de Europa**, mostrando la doble cara de nuestra tecnología.  
+También vimos residuos difíciles de gestionar, como la mezcla concentrada de **heces, orina, papel y toallitas** extraídas de las tuberías, y casos de **contaminación extrema** como ríos llenos de espuma tóxica o incluso un río en Estados Unidos que llegó a arder por residuos químicos.
+
+Relacionamos esto con el cuerpo humano, donde las **células envían mensajes al cerebro mediante hormonas** para mantener el equilibrio, igual que la naturaleza “avisa” cuando los residuos superan su capacidad de absorción.
+
+La idea central fue: **¿basura o recurso?**, mostrando la doble cara del impacto ambiental entre países ricos y pobres.
+
+La **pregunta del día** fue:  
+**¿Por qué cambiaste tu último móvil?**  
+En mi caso, lo cambié porque se me cayó al suelo un día de mucha lluvia. Cuando volví a recogerlo ya no funcionaba correctamente y, aunque intenté repararlo, el daño era demasiado grande. Esto me hizo darme cuenta de que muchas veces cambiamos el móvil no porque queramos uno nuevo, sino porque los dispositivos están poco preparados para durar o ser reparados fácilmente. Al final, un pequeño accidente provoca que se convierta en residuo, aumentando el problema de los desechos electrónicos y demostrando la importancia de diseñar productos más resistentes y reparables
+
+### Ejemplos
+- Restos de **zanahorias** que pueden compostarse y convertirse en abono para plantas.  
+- Residuos electrónicos reutilizados para extraer metales valiosos.  
+- Residuos químicos que contaminan ríos y afectan a poblaciones cercanas.  
+- Toallitas y residuos sanitarios que causan problemas en las tuberías.
+
+### Reflexión Personal
+Esta clase me hizo pensar que muchos residuos que generamos podrían tener una segunda vida, pero también que nuestro consumo tiene consecuencias muy graves en otras partes del mundo. Me impactó ver cómo otras personas arriesgan su salud para aprovechar los residuos que nosotros desechamos. Creo que deberíamos consumir menos, cuidar mejor lo que tenemos y pensar antes de tirar algo que aún puede servir.
+
+### Imagen
+ ![La comparación entre basura y recurso](https://content.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_1280x853.jpg)
+
+
+## --- Viernes 16 de Enero de 2026 ---
+
+### Resumen de la Clase
+### Ejemplos
+### Reflexión Personal
+### Imagen
+
+
+## --- Viernes 23 de Enero de 2026 ---
+
+### Resumen de la Clase
+### Ejemplos
+### Reflexión Personal
+### Imagen
+
+
+## --- Viernes 30 de Enero de 2026 ---
+
+### Resumen de la Clase
+### Ejemplos
+### Reflexión Personal
+### Imagen
+
+
 #  ------ DICIEMBRE ------
 
  ## --- Viernes 05 de Diciembre de 2025 ---
@@ -61,6 +117,17 @@ Me sorprendió saber que solo usamos un 20% de energías renovables y que tantas
 
 ### Imagen
  ![un mapa de zonas vulnerables por cambio climatico](https://www.miperiodicodigital.com/2024/img/noticias/2024/04/662e7cbcc8693__550x550.jpg)
+
+
+## --- Viernes 19 de Diciembre de 2025 ---
+
+1. Hoy no se dio clase ya que apenas vinieron alumnos
+
+ ### Resumen de la Clase
+  ### Ejemplos
+  ### Reflexión Personal
+  ### Imagen
+
 
 
 #  ------ NOVIEMBRE ------
