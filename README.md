@@ -35,9 +35,26 @@ Esta clase me hizo pensar que muchos residuos que generamos podrían tener una s
 ## --- Viernes 16 de Enero de 2026 ---
 
 ### Resumen de la Clase
+Hoy hablamos sobre la **desigualdad global**, donde una parte pequeña de la población es muy rica mientras que otra gran parte es muy pobre. Relacionamos este problema con los **17 Objetivos de Desarrollo Sostenible (ODS)**, cuyo objetivo es mejorar la calidad de vida de las personas y reducir las desigualdades en ámbitos como la educación, la salud, el medio ambiente y la economía.
+
+Comentamos cómo se destinan grandes **fondos de dinero a la educación y al desarrollo**, pero también debatimos sobre la **delgada línea entre el altruismo y el egoísmo**. Se puso el ejemplo de una situación extrema: si el mundo estuviera cerca de colapsar y una persona almacenara mucha comida, sus vecinos sin recursos intentarían quitársela para sobrevivir. Esto muestra cómo, en situaciones límite, los intereses personales pueden chocar con la solidaridad.
+
+También analizamos las **dimensiones de los ODS**, viendo tanto sus ventajas como sus dificultades para aplicarse en todos los países de la misma manera.
+
+La **pregunta del día** fue:  
+**¿Se van a conseguir cumplir los objetivos de los ODS?**
+
 ### Ejemplos
+- Inversión en **educación** para reducir la pobreza a largo plazo.  
+- Ayuda internacional que mejora la sanidad en países en desarrollo.  
+- Desigualdad económica entre países ricos y pobres.  
+- Conflictos entre interés individual y bienestar colectivo.
+
 ### Reflexión Personal
+Esta clase me hizo reflexionar sobre lo difícil que es lograr un equilibrio entre ayudar a los demás y proteger los propios intereses. Creo que los ODS son una buena iniciativa, pero cumplirlos requiere compromiso real de gobiernos, empresas y ciudadanos. Sin cooperación y solidaridad, es muy complicado reducir las desigualdades que existen hoy en el mundo.
+
 ### Imagen
+![Un gráfico de desigualdad económica o una ilustración sobre cooperación global](https://elordenmundial.com/wp-content/uploads/2021/11/mapa-desigualdad-ingresos-mundo.png)
 
 
 ## --- Viernes 23 de Enero de 2026 ---
