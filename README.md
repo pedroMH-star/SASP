@@ -60,9 +60,36 @@ Esta clase me hizo reflexionar sobre lo difícil que es lograr un equilibrio ent
 ## --- Viernes 23 de Enero de 2026 ---
 
 ### Resumen de la Clase
+Hoy vimos cómo se elabora un **plan de sostenibilidad empresarial** y la importancia de que las empresas tengan productos de calidad, siguiendo normas como **ISO 9001**. Antes de lanzar un producto, es fundamental verificar que cumple los requisitos del **Sistema de Gestión de Calidad (SGC)**.
+
+Hablamos de qué significa **sostenibilidad en una empresa**, cómo la **ecodependencia** condiciona tanto al negocio como a la sociedad, y repasamos la **anatomía de un plan de sostenibilidad**:  
+1. Diagnóstico inicial  
+2. Grupos de interés  
+3. Materialidad  
+4. Acción y métricas
+
+Se pusieron ejemplos prácticos:  
+- Tener un **Ferrari** y cómo puede ser percibido socialmente
+- Fabricar **coches de juguete** muy baratos y venderlos más caros, considerando el margen de beneficio 
+- Producir **churros** y cómo el coste de la maquinaria y la materia prima influye en el precio final
+
+También vimos los criterios **ASG** (Ambiental, Social y Gobernanza) y cómo medirlos mediante **indicadores (KPIs)** para evaluar el impacto real de las acciones sostenibles.
+
+La **pregunta del día** fue:  
+**¿Son greenwashing los planes de sostenibilidad empresarial?**  
+Hablamos sobre que algunas empresas utilizan los planes de sostenibilidad solo como estrategia de marketing, sin que haya cambios reales. Por eso es importante analizar los indicadores y la transparencia para distinguir entre **acciones reales y simple publicidad**.
+
 ### Ejemplos
+- Empresas que miden su huella de carbono y reducen residuos
+- Negocios que crean productos responsables con criterios sociales y ambientales 
+- Empresas que solo comunican planes verdes para mejorar su imagen (greenwashing) 
+- Indicadores KPI que muestran el impacto real de la sostenibilidad
+
 ### Reflexión Personal
+Hoy entendí que la sostenibilidad en las empresas no es solo una moda, sino una necesidad para generar valor real y reducir impactos negativos. Sin embargo, también aprendí a ser crítico y diferenciar entre **planes reales y greenwashing**, porque muchas veces se usan estrategias solo para mejorar la reputación. Me hace pensar que como consumidor y ciudadano debemos informarnos y exigir transparencia.
+
 ### Imagen
+![Infografía de un plan de sostenibilidad, los criterios ASG o ejemplos de KPIs](https://www.sustentia.com/wp-content/uploads/2021/04/Esquema-EFRAG-2-1.png)
 
 
 ## --- Viernes 30 de Enero de 2026 ---
